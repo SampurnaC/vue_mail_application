@@ -1,18 +1,16 @@
-# sample-project
+# Vue.js Mail Example Application
 
-> A Vue.js project
+This repository contains the code for the second example application from the [Vue.js: From Beginner to Professional course](https://l.codingexplained.com/course/vuejs?src=github).
 
-## Build Setup
+## Getting up and Running
 
 ``` bash
-# install dependencies
+# Install the dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# Serve with hot reload at http://localhost:8080
 npm run dev
 
-# build for production with minification
+# Build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
